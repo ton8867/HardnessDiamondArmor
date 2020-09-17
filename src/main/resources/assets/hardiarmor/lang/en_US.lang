@@ -1,0 +1,12 @@
+
+item.ObsidianChunk.name=ObsidianChunk
+
+item.lamphelmet.name=Lamp helmet
+item.TorchLamp.name=Torches in glass
+item.hardnesshelmet.name=hardness diamond helmet
+item.hardnesschest.name=hardness diamond chestplate
+item.hardnessleggings.name=hardness diamond leggings
+item.hardnessboots.name=hardness diamond boots
+itemGroup.HarDiArmor=Hardness Diamond Armor
+achievement.CreateObsidianC=Very hard intermediate material.
+achievement.CreateObsidianC.desc=It's hard anyway, and it would hurt if you were hit.

@@ -1,0 +1,11 @@
+
+item.ObsidianChunk.name=黒曜石の塊
+item.TorchLamp.name=ガラスに入った松明
+item.hardnesshelmet.name=硬いダイヤのヘルメット
+item.hardnesschest.name=硬いダイヤのチェストプレート
+item.hardnessleggings.name=硬いダイヤのレギンス
+item.hardnessboots.name=硬いダイヤのブーツ
+item.lamphelmet.name=ランプヘルメット
+itemGroup.HarDiArmor=硬いダイヤ装備
+achievement.CreateObsidianC=とても硬い中間素材。
+achievement.CreateObsidianC.desc=とにかく固く、殴られたら痛いだろう。

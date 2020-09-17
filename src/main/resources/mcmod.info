@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hardiarmor",
+  "name": "Hardness Diamond Armor Mod",
+  "description": "Add Hardness Diamond Armor.",
+  "version": "1.0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ton/jhbxst8867(wanko8867)"],
+  "credits": "Ton/jhbxst8867(wanko8867)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
